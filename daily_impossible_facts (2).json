@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Venus has a surprisingly long day!",
+    "description": "Venus takes about 243 Earth days to complete one rotation. That is longer than its year, which lasts about 225 Earth days.",
+    "category": "Space",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/venus/",
+    "emoji": "🪐",
+    "reaction": "Imagine your day being longer than your whole year. No thanks. 💀"
+  },
+  {
+    "title": "Octopuses have three hearts!",
+    "description": "An octopus has three hearts and blue blood. Two hearts help move blood through the gills, while the third circulates it around the body.",
+    "category": "Animals",
+    "source": "Smithsonian Ocean",
+    "url": "https://ocean.si.edu/",
+    "emoji": "🐙",
+    "reaction": "Three hearts?! Octopus is clearly doing the most. 😭"
+  },
+  {
+    "title": "Sharks are older than trees!",
+    "description": "Sharks appeared in the fossil record hundreds of millions of years ago, before the earliest trees.",
+    "category": "Animals",
+    "source": "Smithsonian Institution",
+    "url": "https://www.si.edu/",
+    "emoji": "🦈",
+    "reaction": "Sharks were here before trees. They are basically ancient celebrities. 💀"
+  },
+  {
+    "title": "The Earth is not a perfect sphere!",
+    "description": "Earth is slightly wider around its middle than from the North Pole to the South Pole.",
+    "category": "Science",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/earth/",
+    "emoji": "🌍",
+    "reaction": "Earth is not even a perfect ball. The planet has lore. 😭"
+  },
+  {
+    "title": "A day on Venus is longer than its year!",
+    "description": "Venus rotates very slowly. It takes longer to spin once than it takes to travel around the Sun.",
+    "category": "Space",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/venus/",
+    "emoji": "🪐",
+    "reaction": "Imagine your day being longer than your whole year. No thanks. 💀"
+  },
+  {
+    "title": "Water has a special triple point!",
+    "description": "At a particular temperature and pressure, water can exist as solid ice, liquid water and water vapour together.",
+    "category": "Science",
+    "source": "NIST",
+    "url": "https://www.nist.gov/",
+    "emoji": "💧",
+    "reaction": "Water can pull off a three-state combo. Physics is showing off. 🤯"
+  },
+  {
+    "title": "Wombats produce cube-shaped droppings!",
+    "description": "Wombats are famous for producing cube-shaped droppings. The shape forms inside their intestines.",
+    "category": "Animals",
+    "source": "National Geographic",
+    "url": "https://www.nationalgeographic.com/",
+    "emoji": "🟫",
+    "reaction": "Nature really said: let’s make cubes. Who approved this? 😭"
+  },
+  {
+    "title": "The Sun is about 109 times wider than Earth!",
+    "description": "The Sun is so enormous that its diameter is about 109 times the diameter of Earth.",
+    "category": "Space",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/sun/facts/",
+    "emoji": "☀️",
+    "reaction": "Earth is giving tiny side character energy next to the Sun. 😭"
+  },
+  {
+    "title": "30 Earths could fit between Earth and the Moon!",
+    "description": "The average distance between Earth and the Moon is large enough to fit about 30 Earth-sized planets in between.",
+    "category": "Space",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/earth/facts/",
+    "emoji": "🌕",
+    "reaction": "The Moon is not as close as it looks. Space has no business being this huge. 💀"
+  }
+]
